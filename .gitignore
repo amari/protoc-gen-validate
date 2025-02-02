@@ -1,6 +1,7 @@
 bazel-*
 **/.DS_Store
 !vendor/*
+MODULE.bazel.lock
 
 /bin
 /cmd/protoc-gen-validate-cpp/protoc-gen-validate-cpp
